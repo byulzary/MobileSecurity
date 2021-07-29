@@ -1,0 +1,2 @@
+rootProject.name='ContappV2'
+include ':app'

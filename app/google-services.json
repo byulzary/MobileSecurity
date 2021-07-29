@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161790800699",
+    "project_id": "contappv2",
+    "storage_bucket": "contappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161790800699:android:342a63f3e77e95d4cebd1e",
+        "android_client_info": {
+          "package_name": "com.example.contappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161790800699-trti0kvd16d70rk2t644siejvuojod5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUHzFeNgvqrOrYXvJn-8invFt-ATieWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161790800699-trti0kvd16d70rk2t644siejvuojod5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
